@@ -9,17 +9,20 @@
 A Android library for qrcode scanning and generating, depends on zxing library
 
 
-Android ZXing二维码扫描库，支持二维码扫描和生成，演示效果：
+Android ZXing
+QR code scanning library, support QR code scanning and generation, demonstration effect:
 
 ![image](https://github.com/ahuyangdong/QrCodeLib/blob/master/demo.gif)
 
-特别提醒：master分支使用的是传统的appcompat包，如需支持AndroidX开发，请至[androidx分支](https://github.com/ahuyangdong/QrCodeLib/tree/androidx)
+Special reminder: The master branch uses the traditional appcompat package. If you need to support AndroidX development, please go to [androidx branch](https://github.com/ahuyangdong/QrCodeLib/tree/androidx)
 
-## 博客讲解
+
+## Blog explanation
 https://blog.csdn.net/ahuyangdong/article/details/89339970
 
 
-## 致谢
+
+## Thanks
 
 - ZXing
 
