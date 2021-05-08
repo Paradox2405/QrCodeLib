@@ -12,25 +12,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="20dip">
-
-        <EditText
-            android:id="@+id/et_content"
-            android:layout_width="0dip"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="top"
-            android:hint="Please enter the content of the QR code"
-            android:lines="2" />
-
-        <Button
-            android:id="@+id/btn_generate"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginLeft="6dip"
-            android:text="Generate QR code" />
-    </LinearLayout>
+        android:layout_margin="20dip"/>
 
     <ImageView
         android:id="@+id/img_qrcode"
