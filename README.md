@@ -6,13 +6,12 @@
 ![repo size](https://img.shields.io/github/repo-size/ahuyangdong/QrCodeLib.svg)
 [![Licence](https://img.shields.io/github/license/ahuyangdong/QrCodeLib.svg)](https://github.com/ahuyangdong/TabCustom/blob/master/LICENSE)
 
-A Android library for qrcode scanning and generating, depends on zxing library
+An Android library for qrcode scanning and generating, depends on zxing library
 
 
 Android ZXing
 QR code scanning library, support QR code scanning and generation, demonstration effect:
 
-![image](https://github.com/ahuyangdong/QrCodeLib/blob/master/demo.gif)
 
 Special reminder: The master branch uses the traditional appcompat package. If you need to support AndroidX development, please go to [androidx branch](https://github.com/ahuyangdong/QrCodeLib/tree/androidx)
 
